@@ -1,4 +1,4 @@
 - 👋 Hi there, I'm Kevin
 - 🌍 Developer / Student based in Munich
-- 🚀 Flutter and Machine Learning enjoyer/ Geodata Science
+- 🚀 Flutter and Machine Learning enjoyer / Geodata Science
 - 🙆‍♂️ Hobbies include Piano, Photography, 3D Printing, SysAdmin and many more
